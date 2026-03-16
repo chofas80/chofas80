@@ -26,10 +26,11 @@ Soy **Ingeniera en Sistemas** con más de 10 años de experiencia en desarrollo 
 ---
 
 ### Proyectos Destacados (KeepCoding Bootcamp)
-* **Proyecto Final de Bootcamp[https://github.com/Data-Avengers-KC/ProyectoFinalKC]:** Desarrollo integral de una solución de Big Data e IA (Calificación: **9.7/10**).
-* **NLP & Sentiment Analysis:** Aplicación de Deep Learning para procesamiento de texto.
-* **Modelos de Predicción:** Implementación de algoritmos de Machine Learning (Regresión, Clasificación y Clustering).
-* **Arquitecturas End-to-End:** Despliegue de modelos utilizando Docker, FastAPI y Google Cloud Platform.
+* **[Proyecto Final de Bootcamp](https://github.com/Data-Avengers-KC/ProyectoFinalKC):** Desarrollo integral de una solución de Big Data e IA (Calificación: **9.7/10**).
+* **[Deep Learning](https://github.com/chofas80/PRACTICA_DEEP_LEARNING):** Predicción del éxito de atracciones turísticas.
+* **[Proyecto IA](https://github.com/chofas80/PRACTICA_IA):** Planificador de Menús Personalizado con IA (RAG).
+* **[NLP & Sentiment Analysis](https://github.com/chofas80/PRACTICA_NLP):** Análisis del dataset sobre las Reviews de automóviles en Amazón.
+* **[Análisis y Visualización con PowerBI](https://github.com/chofas80/EXPLORACION_VISUALIZACION_DATOS):** Análisis del Comportamiento de Reservas en Airbnb en las Zonas Madrid entre 2010 - 2016
 
 ---
 
