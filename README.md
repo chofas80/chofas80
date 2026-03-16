@@ -26,7 +26,7 @@ Soy **Ingeniera en Sistemas** con más de 10 años de experiencia en desarrollo 
 ---
 
 ### Proyectos Destacados (KeepCoding Bootcamp)
-* **Proyecto Final de Bootcamp:** Desarrollo integral de una solución de Big Data e IA (Calificación: **9.7/10**).
+* **Proyecto Final de Bootcamp[https://github.com/Data-Avengers-KC/ProyectoFinalKC]:** Desarrollo integral de una solución de Big Data e IA (Calificación: **9.7/10**).
 * **NLP & Sentiment Analysis:** Aplicación de Deep Learning para procesamiento de texto.
 * **Modelos de Predicción:** Implementación de algoritmos de Machine Learning (Regresión, Clasificación y Clustering).
 * **Arquitecturas End-to-End:** Despliegue de modelos utilizando Docker, FastAPI y Google Cloud Platform.
